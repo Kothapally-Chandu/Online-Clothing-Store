@@ -26,16 +26,11 @@ A console-based shopping app for an online clothing store built using **Java** a
 1. Clone the repository:
 git clone https://github.com/Kothapally-Chandu/Online-Clothing-Store.git cd Online-Clothing-Store
 
-markdown
-Copy
-Edit
 
 2. Compile the Java files:
 javac Project/*.java
 
-markdown
-Copy
-Edit
+
 
 3. Run the application:
 java Project.ClothingStore1
